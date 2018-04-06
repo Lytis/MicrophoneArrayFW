@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "usbd_cdc_if.h": "c",
+        "app_storage.h": "c",
+        "diskio.h": "c",
+        "stm32f7xx_hal.h": "c",
+        "usb_device.h": "c"
+    }
+}
